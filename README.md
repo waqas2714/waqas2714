@@ -5,12 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=waqas2714)
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
 - 📫 How to reach me **wqureshi.bese22seecs@seecs.edu.pk**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <hr>
 
@@ -70,11 +66,5 @@
       
 <p align="center"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h1 align="center">Snake Eating My Contribution Graph!</h1>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <hr>
